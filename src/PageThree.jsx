@@ -1,5 +1,5 @@
 import React from "react";
-import tochiImg from "./assets/priscila1.jpg";
+import tochiImg from "./assets/priscilla1.jpg";
 import tochiImg1 from "./assets/priscila2.jpg";
 
 const PageThree = ({ onNext }) => {
